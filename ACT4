@@ -1,0 +1,11 @@
+<?php
+// INCORRECT CODE (with errors):
+// $1name = “Ana”; // ERROR: Variable names cannot start with numbers
+// $Age = 18;
+// echo $age; // ERROR: $age and $Age are different (case-sensitive)
+
+// CORRECT CODE:
+$name = “Ana”; // Variable name starts with letter
+$age = 18; // Use lowercase for consistency
+Echo $age; // Matches the variable name
+?>
