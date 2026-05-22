@@ -1,0 +1,4 @@
+<?php
+Echo “Name: Jamaica L. Macasinag <br>”;
+Print “Course: BS Information Technology”;
+?>
