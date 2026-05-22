@@ -1,0 +1,9 @@
+<?php
+$a = 10;
+$b = 3;
+Echo “Addition: “ . ($a + $b) . “<br>”;
+Echo “Subtraction: “ . ($a - $b) . “<br>”;
+Echo “Multiplication: “ . ($a * $b) . “<br>”;
+Echo “Division: “ . ($a / $b) . “<br>”;
+Echo “Modulus: “ . ($a % $b);
+?>
