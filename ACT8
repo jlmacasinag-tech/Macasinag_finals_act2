@@ -1,0 +1,12 @@
+<?php
+$num1 = 8;
+$num2 = 4;
+Echo “<h2>Simple Calculator</h2>”;
+Echo “Number 1: “ . $num1 . “<br>”;
+Echo “Number 2: “ . $num2 . “<br><br>”;
+Echo “Sum: “ . ($num1 + $num2) . “<br>”;
+Echo “Difference: “ . ($num1 - $num2) . “<br>”;
+Echo “Product: “ . ($num1 * $num2) . “<br>”;
+Echo “Quotient: “ . ($num1 / $num2) . “<br>”;
+Echo “Modulus: “ . ($num1 % $num2);
+?>
