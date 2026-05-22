@@ -1,0 +1,5 @@
+<?php
+echo "Welcome!<br>";
+echo "This is my first PHP.<br>";
+echo "It's okay to not know—just don't stop trying.";
+?>
