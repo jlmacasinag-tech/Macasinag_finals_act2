@@ -1,0 +1,18 @@
+<?php
+$a = 10;
+$b = 5;
+Echo “a > b: “;
+Var_dump($a > $b); // true
+Echo “<br>”;
+
+Echo “a == b: “;
+Var_dump($a == $b); // false
+Echo “<br>”;
+
+Echo “a != b: “;
+Var_dump($a != $b); // true
+Echo “<br>”;
+
+Echo “a < b: “;
+Var_dump($a < $b); // false
+?>
